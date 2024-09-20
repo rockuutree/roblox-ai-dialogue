@@ -36,6 +36,7 @@ After installation, the system will automatically create an NPC in the workspace
 - Be mindful of your OpenAI API usage and associated costs.
 - Ensure that your use of the OpenAI API complies with OpenAI's use-case policies and Roblox's Terms of Service.
 
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.# roblox-ai-dialogue
+This project is licensed under the MIT License - see the LICENSE file for details.
